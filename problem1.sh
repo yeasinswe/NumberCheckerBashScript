@@ -36,7 +36,7 @@ read -p "Enter a number: " number
 
 while true
 do
-     echo "--------- MENU ---------"
+     echo " MENU "
     echo "1. Check Prime"
        echo "2. Check Leap Year"
       echo "3. Print Sum of Series (1 to n)"
